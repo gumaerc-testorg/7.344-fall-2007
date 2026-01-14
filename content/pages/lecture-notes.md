@@ -116,7 +116,7 @@ In the past years many single regions have been studied for the presence of DNA 
 Field trip and written assignment
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "29fb4384-c02e-408e-9e18-e96421b12f49" "Novartis Institute for Biomedical Research, Epigenetics Program" %}}  
+[Novartis Institute for Biomedical Research, Epigenetics Program](http://www.novartis.com/)  
 Working in industry: Discussion with Dr. Francois Gaudet (Group leader-Novartis Epigenetics Program).
 {{< tdclose >}}
 
